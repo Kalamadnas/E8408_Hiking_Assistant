@@ -23,19 +23,19 @@ LCD Screen (16x2, I2C)
 LilyGo Smartwatch (ESP32) 
 Supported Software 
 Arduino IDE 2.3.4 
-
 Code written in C/C++ 
-
-  Libraries used: 
+Libraries used: 
 - TTGO_TWatch_Library V1.4.3
 - esp32 2.0.5
 - Grove-LCD RGB Backlight
+
 Setup & Installation
 Bluetooth enabled wristband
 Arduino board with BLE module
 Installation
 The software is uploaded to the watch and Arduino Mega via the Arduino IDE upload-function while the devices are connected to a computer with USB-cables. 
 More detailed installation can be found in user manual.
+
 Contact
 Markus Mattson markus.e.mattsson@aalto.fi
 Teemu Rauha teemu.rauha@aalto.fi
