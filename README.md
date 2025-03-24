@@ -11,7 +11,7 @@ System Components
 1.  Smartwatch 
 * Tracks user activity (steps, distance).
 * Stores session data until synced with the Arduino.
-* Uses Bluetooth Low Energy (BLE) for communication.
+* Uses Bluetooth for communication.
 * Sends data in a structured format for processing.
 2. Arduino 
 * Bluetooth connection with the wristband.
@@ -31,7 +31,7 @@ Code written in C/C++
 - esp32 2.0.5
 - Grove-LCD RGB Backlight
 Setup & Installation
-Bluetooth Low Energy (BLE)-enabled wristband
+Bluetooth enabled wristband
 Arduino board with BLE module
 Installation
 The software is uploaded to the watch and Arduino Mega via the Arduino IDE upload-function while the devices are connected to a computer with USB-cables. 
