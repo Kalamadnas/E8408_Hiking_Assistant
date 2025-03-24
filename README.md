@@ -37,6 +37,6 @@ The software is uploaded to the watch and Arduino Mega via the Arduino IDE uploa
 More detailed installation can be found in user manual.
 
 Contact
-Markus Mattson markus.e.mattsson@aalto.fi
+Markus Mattsson markus.e.mattsson@aalto.fi
 Teemu Rauha teemu.rauha@aalto.fi
 Vilma Väisänen vilma.e.vaisanen@aalto.fi
